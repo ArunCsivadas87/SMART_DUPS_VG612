@@ -1,0 +1,6 @@
+source "C:/Users/ARUN/ESP32/esp-idf-v4.4/components/app_update/Kconfig.projbuild"
+source "C:/Users/ARUN/ESP32/esp-idf-v4.4/components/bootloader/Kconfig.projbuild"
+source "C:/Users/ARUN/ESP32/esp-idf-v4.4/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/ARUN/ESP32/esp-idf-v4.4/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/ARUN/ESP32/esp-idf-v4.4/components/partition_table/Kconfig.projbuild"
+source "C:/Users/ARUN/eclipse-workspace/SMART_DUPS_VG612_V_2_0/main/Kconfig.projbuild"
